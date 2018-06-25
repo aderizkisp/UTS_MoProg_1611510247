@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/UTS_MoProg.iml" filepath="$PROJECT_DIR$/UTS_MoProg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UTS_AdeRizki.iml" filepath="$PROJECT_DIR$/UTS_AdeRizki.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

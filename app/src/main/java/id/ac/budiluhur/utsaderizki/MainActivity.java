@@ -1,7 +1,6 @@
-package id.ac.budiluhur.uts_moprog;
+package id.ac.budiluhur.utsaderizki;
 
 import android.app.Activity;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;

@@ -1,4 +1,4 @@
-package id.ac.budiluhur.uts_moprog;
+package id.ac.budiluhur.utsaderizki;
 
 import org.junit.Test;
 
